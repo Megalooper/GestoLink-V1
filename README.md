@@ -15,7 +15,7 @@ Este proyecto integra **Visión Artificial** y **Sistemas Embebidos** para contr
 ## 🔧 Instalación
 1. Clona el repositorio:
    ```bash
-   git clone [https://github.com/Megalooper/control-gestual-arduino.git](https://github.com/Megalooper/control-gestual-arduino.git)
+   git clone [https://github.com/Megalooper/GestoLink-V1.git](https://github.com/Megalooper/GestoLink-V1.git)
 
 ## 👥 Créditos y Colaboradores
 
